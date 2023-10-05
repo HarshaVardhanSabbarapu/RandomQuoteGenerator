@@ -1,0 +1,41 @@
+body{
+    background:url("https://images.pexels.com/photos/2734469/pexels-photo-2734469.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") no-repeat center center/cover;
+    background-attachment: fixed;
+}
+.card-h1{
+    color : rgb(3, 254, 254);
+    text-align: center;
+    margin-top: 20px;
+    box-shadow: 0 0 10px;
+    opacity : 1;
+}
+.card{
+    resize: none;
+    text-align: center;
+    margin-top: 150px;
+    box-shadow: 0 0 10px;
+    opacity : 0.7;
+}
+.card-header{
+    padding : 22px;
+    text-align : center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.card-body{
+    text-align : center;
+    padding : 20px;
+}
+.card-title{
+    padding : 15px;
+    font-size : 25px;
+    font-weight: 100;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card-text{
+    padding : 30px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+}
